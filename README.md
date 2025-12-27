@@ -1,4 +1,4 @@
-# 🚀 Django ORM Internship Task – Even ID Validation & Edit Control
+# 🚀 Django ORM - Even ID Validation & Edit Control
 
 This project is developed as part of my **Internship Task at BrainyBeam**.  
 It demonstrates how to use **Django ORM** to enforce **business rules** where:
